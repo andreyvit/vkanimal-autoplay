@@ -1,0 +1,269 @@
+--- 
+method: user.get_scene
+params: 
+  config: "false"
+  store: "false"
+  uid: "2725560"
+  scene_type: ranch
+  rekoo_killer: "618941"
+return_code: 0
+extra_info: 
+  level: 
+    ranch: 2
+  next_level_need_experience: 
+    ranch: 121.38
+  experience: 
+    ranch: 278.62
+server_now: 1253400822.81
+data: 
+  department: 
+  name: "\xD0\x9C\xD0\xB0\xD1\x80\xD0\xB8\xD1\x8F \xD0\x9F\xD0\xB5\xD1\x82\xD1\x80\xD0\xBE\xD0\xB2\xD0\xB0"
+  u_year: 
+  prestige: 14
+  university: 
+  update_time: 1253381333.0
+  add_time: 1249555946.0
+  mainurl: http://cs1201.vkontakte.ru/u2725560/c_db9f9d1a.jpg
+  ranch: 
+    decorations: {}
+
+    level: 14
+    uid: "2725560"
+    animals: 
+      main: 
+        "6": 
+          is_feed: 0
+          ai_scare_time: 
+          total_fruit: 26.0
+          caught_stealer: []
+
+          scarer: 
+          - "618941"
+          steal_fruit: 0
+          is_scare: true
+          state_start_time: 1253342609.06
+          animal_type: NanFeiTuoNiao
+          auto_harvest: []
+
+          season: 2
+          next_season: 2
+          next_state_start_time: 1253402549.06
+          increment_fruit: 1.0
+          next_state: fruit
+          harvest_type: 0
+          state: adult
+          stealer: []
+
+          start_time: 1253211209.06
+        "7": 
+          is_feed: 0
+          ai_scare_time: 
+          total_fruit: 26.0
+          caught_stealer: []
+
+          scarer: 
+          - "618941"
+          steal_fruit: 0
+          is_scare: true
+          state_start_time: 1253342609.06
+          animal_type: NanFeiTuoNiao
+          auto_harvest: []
+
+          season: 2
+          next_season: 2
+          next_state_start_time: 1253402549.06
+          increment_fruit: 1.0
+          next_state: fruit
+          harvest_type: 0
+          state: adult
+          stealer: []
+
+          start_time: 1253211209.06
+        "8": 
+          is_feed: 0
+          ai_scare_time: 
+          total_fruit: 26.0
+          caught_stealer: []
+
+          scarer: 
+          - "618941"
+          steal_fruit: 0
+          is_scare: true
+          state_start_time: 1253342609.06
+          animal_type: NanFeiTuoNiao
+          auto_harvest: []
+
+          season: 2
+          next_season: 2
+          next_state_start_time: 1253402549.06
+          increment_fruit: 1.0
+          next_state: fruit
+          harvest_type: 0
+          state: adult
+          stealer: []
+
+          start_time: 1253211209.06
+        "9": 
+          is_feed: 0
+          ai_scare_time: 1253486911.6
+          total_fruit: 47.5
+          caught_stealer: []
+
+          scarer: 
+          - "618941"
+          steal_fruit: 0
+          is_scare: true
+          state_start_time: 1253387534.76
+          animal_type: banma
+          auto_harvest: []
+
+          season: 1
+          next_season: 1
+          next_state_start_time: 1253497694.76
+          increment_fruit: 22.5
+          next_state: fruit
+          harvest_type: 3
+          state: adult
+          stealer: []
+
+          start_time: 1253252894.76
+        "1": 
+          is_feed: 0
+          ai_scare_time: 
+          total_fruit: 26.0
+          caught_stealer: []
+
+          scarer: 
+          - "618941"
+          steal_fruit: 0
+          is_scare: true
+          state_start_time: 1253342609.06
+          animal_type: NanFeiTuoNiao
+          auto_harvest: []
+
+          season: 2
+          next_season: 2
+          next_state_start_time: 1253402549.06
+          increment_fruit: 1.0
+          next_state: fruit
+          harvest_type: 0
+          state: adult
+          stealer: []
+
+          start_time: 1253211209.06
+        "2": 
+          is_feed: 0
+          ai_scare_time: 
+          total_fruit: 26.0
+          caught_stealer: []
+
+          scarer: 
+          - "618941"
+          steal_fruit: 0
+          is_scare: true
+          state_start_time: 1253342609.06
+          animal_type: NanFeiTuoNiao
+          auto_harvest: []
+
+          season: 2
+          next_season: 2
+          next_state_start_time: 1253402549.06
+          increment_fruit: 1.0
+          next_state: fruit
+          harvest_type: 0
+          state: adult
+          stealer: []
+
+          start_time: 1253211209.06
+        "3": 
+          is_feed: 0
+          ai_scare_time: 
+          total_fruit: 26.0
+          caught_stealer: []
+
+          scarer: 
+          - "618941"
+          steal_fruit: 0
+          is_scare: true
+          state_start_time: 1253342609.06
+          animal_type: NanFeiTuoNiao
+          auto_harvest: []
+
+          season: 2
+          next_season: 2
+          next_state_start_time: 1253402549.06
+          increment_fruit: 1.0
+          next_state: fruit
+          harvest_type: 0
+          state: adult
+          stealer: []
+
+          start_time: 1253211209.06
+        "4": 
+          is_feed: 0
+          ai_scare_time: 
+          total_fruit: 29.75
+          caught_stealer: []
+
+          scarer: 
+          - "618941"
+          steal_fruit: 0
+          is_scare: true
+          state_start_time: 1253342609.06
+          animal_type: NanFeiTuoNiao
+          auto_harvest: []
+
+          season: 2
+          next_season: 2
+          next_state_start_time: 1253402549.06
+          increment_fruit: 4.75
+          next_state: fruit
+          harvest_type: 0
+          state: adult
+          stealer: []
+
+          start_time: 1253211209.06
+        "5": 
+          is_feed: 0
+          ai_scare_time: 
+          total_fruit: 27.75
+          caught_stealer: []
+
+          scarer: 
+          - "618941"
+          steal_fruit: 0
+          is_scare: true
+          state_start_time: 1253342609.06
+          animal_type: NanFeiTuoNiao
+          auto_harvest: []
+
+          season: 2
+          next_season: 2
+          next_state_start_time: 1253402549.06
+          increment_fruit: 2.75
+          next_state: fruit
+          harvest_type: 0
+          state: adult
+          stealer: []
+
+          start_time: 1253211209.06
+    next_level_need_experience: 1505.45
+    dog: 
+    sink: 
+      next_dry_time: 
+      state: 1
+    experience: 5494.55
+  level: 
+    ranch: 14
+  gold: 7001.0
+  uid: "2725560"
+  sex: false
+  invite_score: 0
+  star: 
+  birthday: "1989-03-20"
+  login_time: 1253381333.0
+  headurl: http://cs1201.vkontakte.ru/u2725560/c_db9f9d1a.jpg
+  state: 0
+  experience: 
+    ranch: 5494.55
+  F_coin: 3
