@@ -99,7 +99,7 @@ def fetch_animals(sid, vkid, target_vkid)
   result = []
   response = call_api(sid, "config=false&uid=#{target_vkid}&method=user%2Eget%5Fscene&store=false&rekoo%5Fkiller=#{vkid}&scene%5Ftype=ranch")
   animals = response['data']['ranch']['animals']['main']
-  animals.collect { |index, animal| Animal.new(index, animal) }
+  animals.reject { |index, animal| animal.nil? || animal.empty? }.collect { |index, animal| Animal.new(index, animal) }
 end
 
 def scare_animal(sid, vkid, target_vkid, animal_key)
